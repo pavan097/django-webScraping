@@ -1,3 +1,3 @@
-Django Dynamic Web Scraping
+<h1> Django Dynamic Web Scraping <h1>
 
-scarping the data from the job sites
+<p> scraping the data from the different job sites. so one can access all the jobs from one site.  </p>
