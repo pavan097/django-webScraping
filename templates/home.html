@@ -1,13 +1,17 @@
-<html>
-    <head>
-        <title> Web Scraping </title>
-    </head>
-    <body>
-        
+{% extends "base.html" %}
+
+{% block content %}
+
+    <div class="container pt-5">
+        <p> List of scraped sites </p>
         <ul>
             <li>
                 <a href="/datalist/"> <div> Naukri Data </div> </a>
             </li>
-        </ul>
-    </body>
-</html>
+            <li>
+                <a href="#"> Indeed </a>
+            </li>
+        </ul>    
+    </div>
+
+{% endblock %}
